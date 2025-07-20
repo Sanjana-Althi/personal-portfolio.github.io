@@ -7,7 +7,7 @@ Welcome to my personal developer portfolio! I'm **Sanjana Althi**, a passionate 
 
 ## 🔗 Live Website
 
-👉 [View Portfolio Live](file:///C:/Portfolio/personal%20portfolio/index.html)  
+👉 [View Portfolio Live] (https://sanjana-althi.github.io/personal-portfolio.github.io/)  
 
 
 ---
